@@ -1,7 +1,5 @@
  # Projeto de automação de Testes - SampleApp Tricentis
 
-# Projeto de Automação de Testes
-
 Este projeto tem como objetivo validar a cotação de seguros, utilizando **Page objects**, utilizando **Java**, **Selenium WebDriver**, **JUnit** e **Cucumber** para testes BDD (Behavior-Driven Development).
 
 ## Ferramentas e Tecnologias Utilizadas
