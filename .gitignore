@@ -1,0 +1,13 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.dat
+*.tmp
+*.out
+
+#maven / Gradle
+target/build/
+.mvn
